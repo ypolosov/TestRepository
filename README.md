@@ -1,2 +1,2 @@
 # TestRepository
-my test repository
+my own test repository
